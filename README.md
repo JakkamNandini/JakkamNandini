@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jakkam Nandini</h1>
-<h3 align="center">A passionate programmer in "c" and "python".</h3>
+<h3 align="center">A passionate programmer in "python".</h3>
 
 - 📫 How to reach me **nandini071004@gmail.com**
 
